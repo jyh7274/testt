@@ -1,2 +1,3 @@
 print('Initial commit')
-print('Third commit from A')
+print('Second commit from B')
+print('Third commit from A(Pull)')
